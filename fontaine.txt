@@ -1,0 +1,41 @@
+Fonts
+  Font:
+    Common name: Stalin One
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2009-2011, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Stalin'
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.002; ttfautohint (v0.91) -l 8 -r 50 -G 200 -x 0 -w "gGD"
+    Vendor: Alexey Maslov, Jovanny Lemonad
+    Vendor url: http://jovanny.ru
+    Designer: Jovanny Lemonad
+    Designer url: http://jovanny.ru
+    Glyph count: 337
+    Character count: 333
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

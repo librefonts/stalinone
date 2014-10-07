@@ -1,0 +1,24 @@
+{
+  "name": "Stalin One",
+  "designer": "Multiple Designers",
+  "license": "OFL",
+  "visibility": "INTERNAL",
+  "category": "Display",
+  "size": 27193,
+  "fonts": [
+    {
+      "name": "Stalin One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "StalinOne-Regular.ttf",
+      "postScriptName": "StalinOne-Regular",
+      "fullName": "Stalin One",
+      "copyright": "Copyright (c) 2009-2011, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Stalin'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-08-20"
+}
